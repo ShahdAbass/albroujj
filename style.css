@@ -1287,25 +1287,29 @@ section {
 }
 
 .contact .info i {
-  font-size: 32px;
+  font-size: 28px;
   color: #055282;
   float: right;
+  padding-left: 0;
   line-height: 1;
 }
 
-.contact .info h4 {
-  padding: 0 0 0 60px;
+.contact .info h5 {
+  padding: 0 0 0 30px;
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #282828;
+  margin-right:40px ;
+  color: #000;
+ 
 }
 
 .contact .info p {
-  padding: 0 0 0 60px;
-  margin-bottom: 0;
-  font-size: 14px;
-  color: #5b5b5b;
+  padding: 0 0 0 30px;
+  font-size: 16px;
+  margin-bottom: 5px;
+  margin-right:40px ;
+  color: #000;
 }
 
 .contact .info .email,
@@ -1394,7 +1398,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #00b371;
+  background: #333333;
 }
 
 @keyframes animate-loading {
