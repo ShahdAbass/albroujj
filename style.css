@@ -604,7 +604,7 @@ section {
 .why-us .box {
   padding: 50px 30px;
   border-radius: 30px 30px;
-  box-shadow: 0px 2px 15px #055282;
+  background-color: white;
   transition: all ease-in-out 0.3s;
 }
 
@@ -615,11 +615,11 @@ section {
   font-weight: 700;
   padding: 0;
   margin: 20px 0;
-  color: #055282;
+  color: #000;
 }
 
 .why-us .box p {
-  color: #333333;
+  color: #000;
   font-size: 20px;
   margin: 0;
   padding: 0;
